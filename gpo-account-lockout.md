@@ -126,7 +126,7 @@ Active Directory Users and Computers
 
 Find the user:
 
-* Right-click → Properties → Account
+* Right-click on user and go to Properties
 
 Check:
 

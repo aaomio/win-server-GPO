@@ -151,12 +151,10 @@ Restart the computer.
 
 ## 6. Verify Domain Membership
 
-On the Domain Controller, open:
+On the Domain Controller, locate:
 
 ```text
-Server Manager
-→ Tools
-→ Active Directory Users and Computers
+Server Manager\Tools\Active Directory Users and Computers
 ```
 
 Expand the domain and select:

@@ -1,4 +1,4 @@
- Command Prompt Restriction (GPO)
+# Command Prompt Restriction (GPO)
 
 This policy prevents users from accessing the Windows Command Prompt.
 

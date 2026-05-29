@@ -4,8 +4,6 @@ This lab builds upon the Active Directory environment created in the following r
 
 * [win-server-AD-lab](https://github.com/aaomio/win-server-AD-lab)
 
-Complete the Active Directory lab before continuing.
-
 ---
 
 ## Required Downloads
@@ -31,7 +29,7 @@ This lab uses:
 
 The Domain Controller should already be deployed and configured from the Active Directory lab.
 
-Create a Windows 10 Enterprise virtual machine, install the operating system and start both virtual machines before beginning the exercises.
+Create a Windows 10 Enterprise virtual machine, install the operating system and start both virtual machines.
 
 ---
 
